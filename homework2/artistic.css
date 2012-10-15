@@ -1,0 +1,246 @@
+#menu a{
+position: relative;
+right:-100px;
+bottom: -20px;
+color:#C71585;
+}
+
+#picture {
+  display: none;
+}
+
+#menu {
+position: relative;
+right:-450px;
+bottom: -200px;
+color:#C71585;
+}
+#Introduction>ul>li{
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+position: relative;
+bottom:-130px;
+left:20px;
+list-style-type: none;
+z-index: 1000;
+}
+#europass{
+display:none;
+}
+
+#typewriter {
+position:relative;
+top:-160px;
+width: 1300px;
+height:1300px;
+}
+#Introduction h1{
+color:#C71585;
+}
+
+
+#curriculum_vitae {
+
+width:1300px;
+height:1300px;
+}
+
+#First {}
+
+#Education {
+font-size: 30px;
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+width:200px;
+height:170px;
+position: relative;
+left:20px;
+top:-1100px;
+z-index: 1000;
+}
+
+#study1 {
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+position: relative;
+top:-1250px;
+left:20px;
+z-index: 1000;
+  color: #800080;
+}
+#study1>a{
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+position: relative;
+top:30px;
+left:-170px;
+z-index: 1000;
+color: black;
+font-size: 20px;
+}
+
+#study1>small{
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+position: relative;
+top:70px;
+left:-270px;
+z-index: 1000;
+color: black;
+font-size: 15px;
+}
+#study2 {
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+position: relative;
+top:-1200px;
+left:20px;
+z-index: 1000;
+  color: #D87093;
+}
+#study2>a{
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+position: relative;
+top:30px;
+left:-160px;
+z-index: 1000;
+color: black;
+font-size: 20px;
+}
+
+#study2>small{
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+position: relative;
+top:70px;
+left:-270px;
+z-index: 1000;
+color: black;
+font-size: 15px;
+}
+
+#Experience{
+font-size: 30px;
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+width:200px;
+height:170px;
+position: relative;
+left:20px;
+top:-1150px;
+z-index: 1000;
+}
+
+#job1{
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+position: relative;
+top:-1300px;
+left:20px;
+z-index: 1000;
+  color:#800080;
+}
+
+#job1>a{
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+position: relative;
+top:30px;
+left:-160px;
+z-index: 1000;
+color: black;
+font-size: 20px;
+}
+#job1>small{
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+position: relative;
+top:70px;
+left:-270px;
+z-index: 1000;
+color: black;
+font-size: 15px;;
+}
+#job2{
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+position: relative;
+top:-1250px;
+left:20px;
+z-index: 1000;
+  color:  #D87093;
+}
+#job2>a{
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+position: relative;
+top:30px;
+left:-160px;
+z-index: 1000;
+color: black;
+font-size: 20px;
+}
+#job2>small{
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+position: relative;
+top:70px;
+left:-270px;
+z-index: 1000;
+color: black;
+font-size: 15px;
+}
+#Skills{
+font-size: 30px;
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+width:200px;
+height:170px;
+position: relative;
+left:20px;
+top:-1200px;
+z-index: 1000;
+}
+
+#lang1{
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+position: relative;
+top:-1350px;
+left:20px;
+z-index: 1000;
+  color: #800080;
+  }
+  
+#lang1>small{
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+position: relative;
+top:30px;
+left:-180px;
+z-index: 1000;
+color: black;
+font-size: 20px;
+
+}
+#lang2{
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+position: relative;
+top:-1300px;
+left:20px;
+z-index: 1000;
+  color: #D87093;
+}
+
+#lang2>small{
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+position: relative;
+top:30px;
+left:-230px;
+z-index: 1000;
+color: black;
+font-size: 20px;
+
+}
+#footer {
+ text-align: center;
+ margin: 10px;
+ font-size: 15px;
+ clear: both;
+ position:relative;
+
+}
+body {
+overflow-x: hidden;
+}
+#footer>small {
+  color: #808080;
+}
+
+#footer>small:before {
+content:"\a";
+white-space:pre;
+}

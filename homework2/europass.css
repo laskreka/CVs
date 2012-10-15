@@ -1,0 +1,115 @@
+#menu {
+position: relative;
+right:-450px;
+bottom: -200px;
+color:#C71585;
+}
+
+#menu a{
+position: relative;
+right:-100px;
+bottom: -20px;
+color:#C71585;
+}
+
+#footer {
+ text-align: center;
+ margin: 10px;
+ font-size: 15px;
+ clear: both;
+ position:relative;
+
+}
+body {
+overflow-x: hidden;
+}
+#footer>small {
+  color: #808080;
+}
+
+#footer>small:before {
+content:"\a";
+white-space:pre;
+}
+#First{
+display:none;
+}
+#Second{
+display:none;
+}
+#Third{
+display:none;
+}
+#Introduction{
+display:none;
+}
+
+#picture{
+display:none;
+}
+#typewriter{
+display:none;
+}
+#column1{
+text-align: right;
+margin: 10px;
+padding: 15px;
+list-style-type:none;
+border-right-style:solid;
+border-top-style:solid;
+width:250px;
+}
+#europass img{
+height:80px;
+width:150px;
+position:relative;
+top:47px;
+} 
+#europass {
+height:1400px;
+width:1000px;
+font-family:"Times New Roman", Times, serif;
+} 
+#column2{
+position: relative;
+right:-300px;
+top:-1245px;
+list-style-type:none;
+width:600px;
+}
+
+#column2 img{
+position: relative;
+top:10px;
+left:425px;
+height:200px;
+width:150px;
+}
+#Education{
+position: relative;
+top:-1146px;
+left:300px;
+list-style-type:none;
+width:600px;
+}
+
+#skills{
+position:relative;
+top:-1073px;
+left:300px;
+list-style-type:none;
+width:600px;
+}
+
+#skills>li>table,th,td{
+
+border:1px solid black;
+
+}
+#work{
+position:relative;
+top:-1198px;
+left:300px;
+list-style-type:none;
+width:600px;
+}

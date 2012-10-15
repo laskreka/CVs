@@ -1,0 +1,280 @@
+#footer {
+ text-align: center;
+ margin: 10px;
+ font-size: 15px;
+ clear: both;
+ position:relative;
+
+}
+body {
+overflow-x: hidden;
+}
+#footer>small {
+  color: #808080;
+}
+
+#footer>small:before {
+content:"\a";
+white-space:pre;
+}
+#menu {
+position: relative;
+right:-450px;
+bottom: -200px;
+color:#C71585;
+}
+#menu a{
+position: relative;
+right:-100px;
+bottom: -20px;
+color:#C71585;
+}
+
+
+h1 {
+  color: #505050;
+}
+#curriculum_vitae {
+border-style:inset;
+border-width:5px;
+margin: 20px;
+padding; 20px;
+}
+
+ 
+ #Introduction{
+ margin-top: 50px;
+ margin-bottom: 50px;
+ margin-right: 50px;
+ margin-left: 50px;
+ border-bottom-style: solid;
+ border-bottom-color: grey;
+ border-bottom-width: 3px;
+ height: 200;
+ 
+ font-size:20px;
+ font-family:"Times New Roman", Times, sans-serif;
+ font-weight:bold;
+ }
+  #Introduction small{
+  font-size:15;
+  color: #808080;
+  }
+  #Introduction ul>li{
+  list-style-type: none;
+  }
+  
+  #Introduction a{
+   color: #808080;
+}
+ 
+#typewriter{
+  display:none;
+}
+#europass{
+display:none;
+}
+
+#picture{
+ position: relative;
+ top: -220px;
+ right: -900;
+  width:150px;
+  height:200px;
+  }
+   #Introduction h1 {
+   font-size: 40px;
+font-family:"Times New Roman", Times, sans-serif;
+ position: relative;
+  }
+  
+#study1 {
+position: relative;
+right: -290px;
+top: -200px;
+ font-size: 20px;
+  font-style:italic;
+  font-family:"Arial", Times, sans-serif;
+  color: red;
+}
+#study1>a{
+position:relative;
+bottom:-20px;
+left:-200px;
+color: black;
+font-size: 20px;
+}
+
+#study1>small{
+position:relative;
+bottom:-50px;
+left:-380px;
+color: black;
+font-size: 15px;
+}
+#study2 {
+position: relative;
+right: -290px;
+top: -150px;
+ font-size: 20px;
+  font-style:italic;
+  font-family:"Arial", Times, sans-serif;
+  color: red;
+}
+#study2>a{
+position:relative;
+bottom:-20px;
+left:-195px;
+color: black;
+font-size: 20px;
+}
+
+#study2>small{
+position:relative;
+bottom:-50px;
+left:-340px;
+color: black;
+font-size: 15px;
+}
+
+#Education {
+font-size: 30px;
+font-family:"Times New Roman", Times, sans-serif;
+width:200px;
+height:170px;
+border-right-style: solid;
+border-right-color: grey;
+border-right-width: 3px;
+}
+#First{
+margin-bottom: 50px;
+ margin-right: 50px;
+ margin-left: 50px;
+border-bottom-style: solid;
+ border-bottom-color: grey;
+ border-bottom-width: 3px;
+ height: 200;
+}
+
+#Second{
+margin-bottom: 50px;
+ margin-right: 50px;
+ margin-left: 50px;
+border-bottom-style: solid;
+ border-bottom-color: grey;
+ border-bottom-width: 3px;
+ height: 200;
+}
+#Experience{
+font-size: 30px;
+font-family:"Times New Roman", Times, sans-serif;
+width:200px;
+height:170px;
+border-right-style: solid;
+border-right-color: grey;
+border-right-width: 3px;
+}
+
+#job1{
+position: relative;
+right: -290px;
+top: -200px;
+font-size: 20px;
+  font-style:italic;
+  font-family:"Arial", Times, sans-serif;
+  color: red;
+}
+
+#job1>a{
+position:relative;
+bottom:-20px;
+left:-200px;
+color: black;
+font-size: 20px;
+}
+#job1>small{
+position:relative;
+bottom:-50px;
+left:-525px;
+color: black;
+font-size: 15px;
+}
+#job2{
+position: relative;
+right: -290px;
+top: -150px;
+font-size: 20px;
+  font-style:italic;
+  font-family:"Arial", Times, sans-serif;
+  color: red;
+}
+#job2>a{
+position:relative;
+bottom:-20px;
+left:-210px;
+color: black;
+font-size: 20px;
+}
+#job2>small{
+position:relative;
+bottom:-50px;
+left:-500px;
+color: black;
+font-size: 15px;
+}
+
+#Third{
+margin-bottom: 50px;
+ margin-right: 50px;
+ margin-left: 50px;
+border-bottom-style: solid;
+ border-bottom-color: grey;
+ border-bottom-width: 3px;
+ height: 200;
+
+}
+#Skills{
+font-size: 30px;
+font-family:"Times New Roman", Times, sans-serif;
+width:200px;
+height:170px;
+border-right-style: solid;
+border-right-color: grey;
+border-right-width: 3px;
+}
+
+#lang1{
+position: relative;
+right: -290px;
+top: -200px;
+color: red;
+font-size: 20px;
+  font-style:italic;
+  font-family:"Arial", Times, sans-serif;
+  }
+  
+#lang1>small{
+position:relative;
+bottom:-20px;
+left:-250px;
+color: black;
+font-size: 20px;
+}
+#lang2{
+position: relative;
+right: -290px;
+top: -150px;
+font-size: 20px;
+  font-style:italic;
+  font-family:"Arial", Times, sans-serif;
+  color: red;
+}
+
+#lang2>small{
+position:relative;
+bottom:-20px;
+left:-278px;
+color:black;
+font-size: 20px;
+}
+
